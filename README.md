@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SteakBaked
 - 👀 I’m interested in Coding, NFTs, Crypto, Stocks and Computers
-- 🌱 I’m currently learning Javascript and Solidity
+- 🌱 I’m currently learning Javascript and hoping to move onto Web 3/ Solidity
 - 📫 You can reach me through my Discord: Steak Bake#6969
 
 <!---
